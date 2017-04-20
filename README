@@ -1,0 +1,16 @@
+Welcome to RunnerTest poject
+
+Pre-requisites to compile this solution
+1.- iOS or android SDK installed
+2.- Unity 5.5.2f installed
+ 
+In the compiled folder you can see the android.apk file for testing on device and the webgl folder containg the build files
+
+the links to the unit asset store related to the assets used are
+
+Soldier:
+https://www.assetstore.unity3d.com/en/#!/content/1727
+
+Obstacles:
+https://www.assetstore.unity3d.com/en/#!/content/75324
+
